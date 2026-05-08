@@ -2,8 +2,10 @@
 title: 'The Editor''s Handbook: Contributing to the Wiki'
 author: Rishabh Dotasara
 date: '2026-05-08'
-tags: []
+tags:
+  - Guide
 ---
+
 
 # Contributing to InstiWiki
 Welcome to the team! InstiWiki is a collaborative platform where every student can contribute. To ensure accuracy and maintain quality, we use a **Moderation Workflow**.
