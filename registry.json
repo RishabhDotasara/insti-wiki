@@ -1,7 +1,21 @@
 {
   "articles": {
-    "how-to-navigate-on-instiwiki": {
-      "title": "How to navigate on InstiWiki?",
+    "how-to-navigate-on-the-app-abx0": {
+      "title": "How to navigate on the app?",
+      "tags": [
+        "Guide"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
+    "how-to-navigate-on-the-app-lxge": {
+      "title": "How to navigate on the app?",
+      "tags": [
+        "Guide"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
+    "how-to-navigate": {
+      "title": "How to navigate?",
       "tags": [
         "Guide"
       ],
@@ -27,28 +41,14 @@
         "Academics",
         "Academics/Aerospace"
       ],
-      "lastUpdated": "2026-05-08T20:44:44.003Z"
+      "lastUpdated": "2026-05-08"
     },
     "welcome-to-campus": {
       "title": "Welcome to Campus",
       "tags": [
         "Campus Life"
       ],
-      "lastUpdated": "2026-05-08T20:45:51.888Z"
-    },
-    "how-to-navigate-on-the-app-abx0": {
-      "title": "How to navigate on the app?",
-      "tags": [
-        "Guide"
-      ],
-      "lastUpdated": "2026-05-08T21:04:13.015Z"
-    },
-    "how-to-navigate-on-the-app-lxge": {
-      "title": "How to navigate on the app?",
-      "tags": [
-        "Guide"
-      ],
-      "lastUpdated": "2026-05-08T21:04:49.030Z"
+      "lastUpdated": "2026-05-08"
     }
   }
 }
