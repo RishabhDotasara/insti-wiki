@@ -6,28 +6,23 @@ tags:
   - Guide
 ---
 
-
-
-
-# Mastering the Hierarchical Tagging System
-Welcome to InstiWiki! To keep our institutional knowledge organized without the chaos of unorganized folders, we use a **Hierarchical Tagging System**. This system powers our search and allows for deep categorization of content.
-## 1. How to Add Tags
-When you are creating or editing an article, you will see a **Tags** section below the title. 
-- Type your tag name.
-- Press **Enter** or click **Add**.
-- Your tag will appear as a badge. To remove it, just click the small **X**.
-
-## 2. Creating Hierarchies 
-We don't use separate folders for categories. Instead, we use **Slashes** directly in the tag names to create subcategories.
-
-### Example:
-- If you use the tag `Academics`, it creates a top-level category.
-- If you use the tag `Academics/Computer Science`, it creates a sub-category called "Computer Science" inside "Academics".
-- If you go deeper, like `Academics/Computer Science/First Year`, you create a three-level deep tunnel for users to explore.
-
-## 3. The Tag Explorer
-By clicking **"Explore Tags"** in the navigation bar, you can see all top-level categories. 
-- Clicking a category will show you all articles inside it AND any sub-categories.
-- We use **Breadcrumbs** at the top (`Root > Category > Subcategory`) to help you find your way back.
+# Finding What You Need
+Welcome to InstiWiki! To keep our institutional knowledge organized and searchable without the clutter of traditional folders, we use a **Hierarchical Tagging System**.
+## 1. Using the Tag Explorer
+The most powerful way to find information is via the **Tag Explorer**. You can access it by clicking the **"Explore Tags"** button in the navigation bar.
+- **Root View**: You will see all major top-level categories (e.g. `Academics`, `Campus Life`, `Administration`).
+- **Drill Down**: Click any category to see a filtered list of articles. If a category has sub-topics, they will appear in the **Subcategories** sidebar.
+- **Breadcrumbs**: Use the navigation trail at the top (e.g. `Root > Academics > Department`) to quickly jump back to a previous level.
+## 2. Understanding the Hierarchy
+We use a simple "Slash" system to create organized documentation tunnels. This allows us to keep high-level topics separate from specific details.
+- **Academics**: A high-level tag for general academic info.
+- **Academics/Computer Science**: A sub-tag for department-specific guides.
+- **Academics/Computer Science/Labs**: A precise tag for lab-specific technical documentation.
+## 3. How to Categorize Your Articles
+When you are creating or editing an article, you can contribute to this organization.
+1.  **Add a Tag**: In the editor, type your tag name and press **Enter**.
+2.  **Use Slashes**: If your article belongs in a specific sub-topic, use the `Category/Subcategory` format.
+3.  **Removal**: To remove a tag, simply click the small **X** on the tag badge.
 ---
-*Keep the Wiki clean, keep the tags precise!*
+> [!TIP]
+> Always check the Tag Explorer before creating a new top-level category. Re-using existing categories keeps the Wiki clean and easy for everyone to navigate!
