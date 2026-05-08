@@ -12,7 +12,7 @@
       "tags": [
         "Guide"
       ],
-      "lastUpdated": "2026-05-08T20:19:00.175Z"
+      "lastUpdated": "2026-05-08"
     },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
@@ -21,12 +21,19 @@
       ],
       "lastUpdated": "2026-05-08"
     },
+    "test-article": {
+      "title": "Test Article",
+      "tags": [
+        "Tag, Tag/Tag2"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
     "the-editors-handbook-contributing-to-the-wiki": {
       "title": "The Editor's Handbook: Contributing to the Wiki",
       "tags": [
         "Guide"
       ],
-      "lastUpdated": "2026-05-08T20:21:05.041Z"
+      "lastUpdated": "2026-05-08"
     },
     "welcome-to-aerospace-engineering": {
       "title": "Welcome to Aerospace Engineering",
@@ -34,14 +41,7 @@
         "Academics",
         "Academics/Aerospace"
       ],
-      "lastUpdated": "2026-05-08T20:14:16.742Z"
-    },
-    "test-article": {
-      "title": "Test Article",
-      "tags": [
-        "Tag, Tag/Tag2"
-      ],
-      "lastUpdated": "2026-05-08T20:34:02.668Z"
+      "lastUpdated": "2026-05-08"
     }
   }
 }
