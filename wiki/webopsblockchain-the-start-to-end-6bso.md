@@ -7,6 +7,7 @@ tags:
 ---
 
 
+
 # What was the club about?
 
 The club focused on exploring modern web technologies and blockchain systems, with a strong emphasis on understanding how these technologies could be applied to solve real-world problems.
@@ -73,3 +74,5 @@ This wiki is still open for other clubs and communities to document:
 So hopefully something useful continues to grow from what we started.
 
 Bye bye 👋
+
+Written by Rishabh Dotasara (W&B Head 25-26)
