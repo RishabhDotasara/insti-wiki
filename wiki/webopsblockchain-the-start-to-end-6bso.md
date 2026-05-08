@@ -6,6 +6,7 @@ tags:
   - CFI/W&B
 ---
 
+
 # What was the club about?
 
 The club focused on exploring modern web technologies and blockchain systems, with a strong emphasis on understanding how these technologies could be applied to solve real-world problems.
@@ -13,9 +14,6 @@ The club focused on exploring modern web technologies and blockchain systems, wi
 We conducted sessions, discussions, workshops, and collaborative projects around:
 - Web Development
 - Blockchain & Smart Contracts
-- Open Source
-- Developer Tooling
-- Modern Internet Infrastructure
 
 The goal was always simple:
 
@@ -34,7 +32,6 @@ Then suddenly machines started writing code faster than students write assignmen
 
 Now AI can:
 - generate websites,
-- debug code,
 - explain concepts,
 - and confidently hallucinate production-ready disasters.
 
