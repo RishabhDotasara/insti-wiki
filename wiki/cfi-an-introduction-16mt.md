@@ -6,4 +6,4 @@ tags:
   - CFI
 ---
 
-Introduction to CFI
+This Subtag here will be used by CFI Clubs and Competition teams to put information about CFI in general and the Club or Team itself.
