@@ -35,6 +35,13 @@
         "Academics/Aerospace"
       ],
       "lastUpdated": "2026-05-08T20:14:16.742Z"
+    },
+    "test-article": {
+      "title": "Test Article",
+      "tags": [
+        "Tag, Tag/Tag2"
+      ],
+      "lastUpdated": "2026-05-08T20:34:02.668Z"
     }
   }
 }
