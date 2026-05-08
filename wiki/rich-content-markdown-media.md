@@ -16,6 +16,7 @@ tags:
 
 
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -88,6 +89,7 @@ Use these specifically colored boxes to highlight important information.
 ---
 
 # 2. Dynamic Images
+
 Don't just use plain text—rich documentation needs visuals!
 
 ### Step 1 — Upload Image:
