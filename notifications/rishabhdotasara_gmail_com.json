@@ -1,5 +1,11 @@
 [
   {
+    "id": "notif-1778272445076",
+    "status": "approved",
+    "articleTitle": "Test Article",
+    "timestamp": "2026-05-08T20:34:05.076Z"
+  },
+  {
     "id": "notif-1778272392374",
     "status": "rejected",
     "articleTitle": "Test Article",
