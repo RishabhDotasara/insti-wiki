@@ -6,6 +6,7 @@ tags:
   - Guide
 ---
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -96,30 +97,7 @@ Use these specifically colored boxes to highlight important information.
 
 ---
 
-# 2. Dynamic Images
-
-Don't just use plain text—rich documentation needs visuals!
-
-- Use the **Image Upload** button in the editor.
-- Images are automatically stored in the repository's media folder.
-
-## Markdown
-
-```markdown
-![Description](image-url)
-```
-
-## Example
-
-```markdown
-![Campus Map](https://example.com/campus-map.png)
-```
-
-## Preview
-
-![Campus Map](https://placehold.co/800x300)
-
----
+# 2. Dynamic ImagesDon't just use plain text—rich documentation needs visuals!## How Image Upload Works1. Open the **Media Panel** on the right side of the editor.2. Upload your image using the upload button.3. The image is automatically stored in the repository's media folder.4. Click the **Copy Code** button next to the uploaded image.5. Paste the copied markdown anywhere inside your article.---## Example Workflow### Step 1 — Upload ImageUpload:```textcampus-map.png```from the Media Panel.---### Step 2 — Click "Copy Code"The editor automatically generates:```markdown![Campus Map](/media/campus-map.png)```---### Step 3 — Paste AnywhereYou can paste it anywhere in your article:```markdown# Campus NavigationHere is the official campus map:![Campus Map](/media/campus-map.png)```---## Preview![Campus Map](https://placehold.co/800x300)---## Supported Formats- PNG- JPG / JPEG- GIF- WEBP- SVG---## Tips> [!TIP]> Use meaningful filenames like `network-topology.png` instead of `image123.png`.> [!IMPORTANT]> Uploaded images are repository assets, meaning they are version controlled along with your documentation.> [!NOTE]> You can reuse the same uploaded image across multiple articles without uploading it again.
 
 # 3. Technical Code Blocks
 
