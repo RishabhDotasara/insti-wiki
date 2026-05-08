@@ -14,6 +14,7 @@ tags:
 
 
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -106,14 +107,6 @@ Use these specifically colored boxes to highlight important information.
 
 # 2. Dynamic Images
 Don't just use plain text—rich documentation needs visuals!
-## How Image Upload Works
-
-1. Upload your image using the upload button.
-2. The image is automatically stored in the repository's media folder.
-3. Click the **Copy Code** button next to the uploaded image.
-4. Paste the copied markdown anywhere inside your article.
-
-## Example Workflow
 
 ### Step 1 — Upload Image:
 ![1778270469075-Screenshot_from_2026-05-09_01-31-01.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/rich-content-markdown-media/1778270469075-Screenshot_from_2026-05-09_01-31-01.png)
