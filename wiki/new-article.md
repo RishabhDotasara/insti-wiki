@@ -6,4 +6,4 @@ tags:
   - General
 ---
 
-New Article Testing bruh, lets see hows the system !
+Lets see if the system editing works!
