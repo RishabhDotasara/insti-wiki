@@ -8,6 +8,7 @@ tags:
 
 
 
+
 # Mastering the Hierarchical Tagging System
 Welcome to InstiWiki! To keep our institutional knowledge organized without the chaos of unorganized folders, we use a **Hierarchical Tagging System**. This system powers our search and allows for deep categorization of content.
 ## 1. How to Add Tags
@@ -16,7 +17,7 @@ When you are creating or editing an article, you will see a **Tags** section bel
 - Press **Enter** or click **Add**.
 - Your tag will appear as a badge. To remove it, just click the small **X**.
 
-## 2. Creating Hierarchies (The "/" Magic)
+## 2. Creating Hierarchies 
 We don't use separate folders for categories. Instead, we use **Slashes** directly in the tag names to create subcategories.
 
 ### Example:
