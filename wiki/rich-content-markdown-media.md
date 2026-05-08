@@ -8,17 +8,6 @@ tags:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -106,7 +95,7 @@ Don't just use plain text—rich documentation needs visuals!
 > [!IMPORTANT]
 > Uploaded images are repository assets, meaning they are version controlled along with your documentation.
 
-# 3. Technical Code Blocks
+# Technical Code Blocks
 
 For technical documentation, use fenced code blocks with language identifiers for syntax highlighting.
 
