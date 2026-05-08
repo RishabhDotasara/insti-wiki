@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "notif-1778272392374",
+    "status": "rejected",
+    "articleTitle": "Test Article",
+    "comment": "What even is this? nigga?\r\n",
+    "timestamp": "2026-05-08T20:33:12.374Z",
+    "branchName": "edit-test-article-1778272345543",
+    "slug": "test-article"
+  }
+]
