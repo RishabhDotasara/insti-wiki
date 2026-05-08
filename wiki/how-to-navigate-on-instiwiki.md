@@ -6,6 +6,7 @@ tags:
   - Guide
 ---
 
+
 # Mastering the Hierarchical Tagging System
 Welcome to InstiWiki! To keep our institutional knowledge organized without the chaos of unorganized folders, we use a **Hierarchical Tagging System**. This system powers our search and allows for deep categorization of content.
 ## 1. How to Add Tags
@@ -23,9 +24,5 @@ We don't use separate folders for categories. Instead, we use **Slashes** direct
 By clicking **"Explore Tags"** in the navigation bar, you can see all top-level categories. 
 - Clicking a category will show you all articles inside it AND any sub-categories.
 - We use **Breadcrumbs** at the top (`Root > Category > Subcategory`) to help you find your way back.
-## 4. Why is it so fast? (The Registry)
-InstiWiki uses a scalable **Wiki Registry**. Every time an Admin approves a change, the system updates a central index (`registry.json`) in the repository. This allows our Tag Explorer to show thousands of articles instantly without scanning the whole repository every time you click.
-> [!TIP]
-> If you notice a newly approved article isn't appearing in the tags yet, an Admin can click **"Rebuild Index"** on the Explore page to force a fresh scan of the repository.
 ---
 *Keep the Wiki clean, keep the tags precise!*
