@@ -10,6 +10,7 @@ tags:
 
 
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -122,7 +123,13 @@ Don't just use plain text—rich documentation needs visuals!
 
 ## Tips> 
 
-[!TIP]> Use meaningful filenames like `network-topology.png` instead of `image123.png`.> [!IMPORTANT]> Uploaded images are repository assets, meaning they are version controlled along with your documentation.> [!NOTE]> You can reuse the same uploaded image across multiple articles without uploading it again.
+>[!TIP]
+> Use meaningful filenames like `network-topology.png` instead of `image123.png`.
+
+> [!IMPORTANT]
+> Uploaded images are repository assets, meaning they are version controlled along with your documentation.
+
+> [!NOTE]> You can reuse the same uploaded image across multiple articles without uploading it again.
 
 # 3. Technical Code Blocks
 
