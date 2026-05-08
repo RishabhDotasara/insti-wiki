@@ -7,6 +7,7 @@ tags:
 ---
 
 
+
 # Contributing to InstiWiki
 Welcome to the team! InstiWiki is a collaborative platform where every student can contribute. To ensure accuracy and maintain quality, we use a **Moderation Workflow**.
 ## 1. How to Propose an Edit
@@ -27,5 +28,4 @@ Once an Admin reviews your work:
 ## 4. Best Practices
 - **Images**: Use the image icon to upload diagrams. Keep them under 5MB.
 - **Hierarchy**: Before creating a new top-level tag, check if a sub-tag makes more sense (e.g., use `Academics/Physics` instead of just `Physics`).
-> [!NOTE]
-> You can track the status of all your pending edits in the **Moderation Queue** page.
+
