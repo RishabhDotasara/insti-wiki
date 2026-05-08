@@ -7,4 +7,9 @@ tags:
   - Academics/Aerospace
 ---
 
-Welcome to Aerospace Engineering!
+
+First of all, Welcome to Aerospace Engineering!
+
+This subtag here will be used to put information regarding Aerospace Courses, Electives, professors feedbacks etc.
+
+Happy Writing!
