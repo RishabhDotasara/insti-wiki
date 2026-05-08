@@ -1,12 +1,5 @@
 {
   "articles": {
-    "admin-guide-managing-the-wiki": {
-      "title": "Admin Guide: Managing the Wiki",
-      "tags": [
-        "Guide"
-      ],
-      "lastUpdated": "2026-05-08"
-    },
     "how-to-navigate-on-instiwiki": {
       "title": "How to navigate on InstiWiki?",
       "tags": [
@@ -27,7 +20,7 @@
         "Tag",
         "Tag/Tag2"
       ],
-      "lastUpdated": "2026-05-08T20:36:35.426Z"
+      "lastUpdated": "2026-05-08"
     },
     "the-editors-handbook-contributing-to-the-wiki": {
       "title": "The Editor's Handbook: Contributing to the Wiki",
