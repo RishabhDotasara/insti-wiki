@@ -7,6 +7,4 @@ tags:
   - Academics/Aerospace
 ---
 
-
-
-Welciome to Aerospace Engineering brother!
+Welcome to Aerospace Engineering!
