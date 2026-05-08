@@ -2,8 +2,10 @@
 title: 'Admin Guide: Managing the Wiki'
 author: Rishabh Dotasara
 date: '2026-05-08'
-tags: []
+tags:
+  - Guide
 ---
+
 
 # Admin Moderation Workflow
 As an Admin, you are the gatekeeper of InstiWiki. You have the power to publish content directly and review contributions from the community.
