@@ -8,7 +8,8 @@ tags:
 
 
 
-# Crafting Beautiful Articles
+
+## Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
 
@@ -76,7 +77,7 @@ Use these specifically colored boxes to highlight important information.
 
 ---
 
-# Dynamic Images
+## Dynamic Images
 
 Don't just use plain text—rich documentation needs visuals!
 
@@ -95,16 +96,3 @@ Don't just use plain text—rich documentation needs visuals!
 > [!IMPORTANT]
 > Uploaded images are repository assets, meaning they are version controlled along with your documentation.
 
-# Technical Code Blocks
-
-For technical documentation, use fenced code blocks with language identifiers for syntax highlighting.
-
-## Python Example
-
-### Markdown
-
-````markdown
-```python
-def welcome():
-    print("Welcome to InstiWiki!")
-```
