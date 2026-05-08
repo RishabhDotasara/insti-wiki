@@ -7,11 +7,12 @@ tags:
 ---
 
 
+
 # Contributing to InstiWiki
 
 Welcome to the team! InstiWiki is a collaborative platform powered by the community. To ensure all information remains accurate and high-quality, we use a simple **Review & Approval** process.
 ## 1. How to Propose an Edit
-1.  **Find the Article**: Navigate to any page you want to improve or update.
+1.  **Find the Article**: Navigate to any page you want to improve or update.fgfgdhdfgh
 2.  **Enter Edit Mode**: Click the **Pencil icon** (Edit Article) at the top of the page.
 3.  **Make Changes**: Draft your updates in the editor. You can use the toolbar for bold text, lists, and headers.
 4.  **Tag Your Work**: Add relevant tags to help others find your article. Use a slash `/` for sub-categories (e.g., `Academics/Physics`).
