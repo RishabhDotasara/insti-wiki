@@ -1,0 +1,19 @@
+{
+  "articles": {
+    "new-article": {
+      "title": "new article",
+      "tags": [
+        "General"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
+    "test-article": {
+      "title": "Test Article",
+      "tags": [
+        "General",
+        "Aerospace"
+      ],
+      "lastUpdated": "2026-05-08"
+    }
+  }
+}
