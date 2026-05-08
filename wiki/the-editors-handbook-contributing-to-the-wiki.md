@@ -6,7 +6,9 @@ tags:
   - Guide
 ---
 
-#Contributing to InstiWiki
+
+# Contributing to InstiWiki
+
 Welcome to the team! InstiWiki is a collaborative platform powered by the community. To ensure all information remains accurate and high-quality, we use a simple **Review & Approval** process.
 ## 1. How to Propose an Edit
 1.  **Find the Article**: Navigate to any page you want to improve or update.
