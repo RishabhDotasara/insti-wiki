@@ -6,16 +6,73 @@ tags:
   - CFI/W&B
 ---
 
-## What was the club about?
-The club was essentially about exploring web technologies and Blockchain advancements, and to explore as in how we can apply these technologies in our real life.
+# What was the club about?
 
-## What happened?
+The club focused on exploring modern web technologies and blockchain systems, with a strong emphasis on understanding how these technologies could be applied to solve real-world problems.
 
-So, it all started in 2022 ig, when ChatGPT was launched.
-Not that dangerous yet, but it will soon start creating apps and people will think they are developers just by that, and eventually no one now has much interest in this field, so we are shutting down.
+We conducted sessions, discussions, workshops, and collaborative projects around:
+- Web Development
+- Blockchain & Smart Contracts
+- Open Source
+- Developer Tooling
+- Modern Internet Infrastructure
 
-Thanks to all the Members who worked hard to keep the club running but even the sun even set on the British Empire so we are nothing as compared.
+The goal was always simple:
 
-Bye Bye!
+> learn by building.
 
-Btw other clubs can use this wiki to put information about their clubs.
+---
+
+# What happened?
+
+Well…
+
+It all started around 2022 when ChatGPT launched.
+
+At first it looked harmless.  
+Then suddenly machines started writing code faster than students write assignment excuses.
+
+Now AI can:
+- generate websites,
+- debug code,
+- explain concepts,
+- and confidently hallucinate production-ready disasters.
+
+Naturally, people began speedrunning the “software engineer” career path using prompts and caffeine.
+
+Over time, interest in deep exploration and long-term building slowly faded, and maintaining the club became increasingly difficult.
+
+So after a good run, we decided to shut things down.
+
+But honestly, the club was never just about technologies.  
+It was about curiosity, experimentation, late-night debugging sessions, and people trying to build cool things together.
+
+And for that, everyone who contributed deserves massive respect.
+
+Even the sun eventually set on the British Empire…  
+so our little dev club never stood a chance against GPU clusters and transformer models.
+
+---
+
+# Thank You
+
+Huge thanks to all the members, contributors, organizers, and chaos engineers who helped keep the club alive.
+
+You guys built something genuinely meaningful.
+
+---
+
+# Final Note
+
+This wiki is still open for other clubs and communities to document:
+- their work,
+- projects,
+- events,
+- knowledge,
+- guides,
+- history,
+- and institutional lore.
+
+So hopefully something useful continues to grow from what we started.
+
+Bye bye 👋
