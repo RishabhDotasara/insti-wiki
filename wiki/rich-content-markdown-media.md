@@ -13,6 +13,7 @@ tags:
 
 
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -114,14 +115,14 @@ Don't just use plain text—rich documentation needs visuals!
 
 ## Example Workflow
 
-### Step 1 — Upload ImageUpload:
+### Step 1 — Upload Image:
 ![1778270469075-Screenshot_from_2026-05-09_01-31-01.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/rich-content-markdown-media/1778270469075-Screenshot_from_2026-05-09_01-31-01.png)
 
 ### Step 2 — Click "Copy Code"
 ![1778270507498-Screenshot_from_2026-05-09_01-31-44.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/rich-content-markdown-media/1778270507498-Screenshot_from_2026-05-09_01-31-44.png)
 
 
-### Step 3 — Paste AnywhereYou can paste it anywhere in your article.
+### Step 3 — Paste Anywhere in your article to insert image there.
 
 >[!TIP]
 > Use meaningful filenames like `network-topology.png` instead of `image123.png`.
