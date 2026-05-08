@@ -16,8 +16,10 @@
     },
     "admin-guide-managing-the-wiki": {
       "title": "Admin Guide: Managing the Wiki",
-      "tags": [],
-      "lastUpdated": "2026-05-08T19:47:03.620Z"
+      "tags": [
+        "Guide"
+      ],
+      "lastUpdated": "2026-05-08T19:50:21.406Z"
     },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
