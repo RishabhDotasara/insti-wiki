@@ -17,6 +17,7 @@ tags:
 
 
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -82,9 +83,6 @@ Use these specifically colored boxes to highlight important information.
 > [!CAUTION]
 > Use this for high-risk actions that could cause data loss or system instability.
 ```
-
-> [!CAUTION]
-> Use this for high-risk actions that could cause data loss or system instability.
 
 ---
 
