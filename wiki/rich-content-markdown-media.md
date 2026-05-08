@@ -15,6 +15,7 @@ tags:
 
 
 
+
 # Crafting Beautiful Articles
 
 InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
@@ -27,14 +28,11 @@ Use these specifically colored boxes to highlight important information.
 
 ## NOTE Alert
 
-### Markdown
 
 ```
 > [!NOTE]
 > Use this for neutral background information, "Did you know?" facts, or general context.
 ```
-
-### Preview
 
 > [!NOTE]
 > Use this for neutral background information, "Did you know?" facts, or general context.
@@ -43,14 +41,10 @@ Use these specifically colored boxes to highlight important information.
 
 ## TIP Alert
 
-### Markdown
-
 ```
 > [!TIP]
 > Use this for performance optimizations, best practices, or helpful shortcuts.
 ```
-
-### Preview
 
 > [!TIP]
 > Use this for performance optimizations, best practices, or helpful shortcuts.
@@ -59,14 +53,10 @@ Use these specifically colored boxes to highlight important information.
 
 ## IMPORTANT Alert
 
-### Markdown
-
 ```
 > [!IMPORTANT]
 > Use this for essential requirements, critical setup steps, or must-read sections.
 ```
-
-### Preview
 
 > [!IMPORTANT]
 > Use this for essential requirements, critical setup steps, or must-read sections.
@@ -75,14 +65,10 @@ Use these specifically colored boxes to highlight important information.
 
 ## WARNING Alert
 
-### Markdown
-
 ```
 > [!WARNING]
 > Use this for potential pitfalls, common errors, or things to be careful about.
 ```
-
-### Preview
 
 > [!WARNING]
 > Use this for potential pitfalls, common errors, or things to be careful about.
@@ -91,14 +77,10 @@ Use these specifically colored boxes to highlight important information.
 
 ## CAUTION Alert
 
-### Markdown
-
 ```
 > [!CAUTION]
 > Use this for high-risk actions that could cause data loss or system instability.
 ```
-
-### Preview
 
 > [!CAUTION]
 > Use this for high-risk actions that could cause data loss or system instability.
