@@ -9,8 +9,10 @@
     },
     "the-editors-handbook-contributing-to-the-wiki": {
       "title": "The Editor's Handbook: Contributing to the Wiki",
-      "tags": [],
-      "lastUpdated": "2026-05-08T19:45:53.772Z"
+      "tags": [
+        "Guide"
+      ],
+      "lastUpdated": "2026-05-08T19:49:57.710Z"
     },
     "admin-guide-managing-the-wiki": {
       "title": "Admin Guide: Managing the Wiki",
