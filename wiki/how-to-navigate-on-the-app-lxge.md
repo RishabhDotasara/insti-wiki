@@ -3,9 +3,9 @@ title: How to navigate on the app?
 author: Rishabh Dotasara
 date: '2026-05-08'
 tags:
-  - Campuslores
   - Campuslores/Guide
 ---
+
 
 
 
