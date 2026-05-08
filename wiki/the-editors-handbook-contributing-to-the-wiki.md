@@ -3,9 +3,9 @@ title: 'The Editor''s Handbook: Contributing to the Wiki'
 author: Rishabh Dotasara
 date: '2026-05-08'
 tags:
-  - Campuslores
   - Campuslores/Guide
 ---
+
 
 
 
