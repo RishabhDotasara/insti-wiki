@@ -1,5 +1,12 @@
 {
   "articles": {
+    "cfi-an-introduction-16mt": {
+      "title": "CFI: An Introduction",
+      "tags": [
+        "CFI"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
     "how-to-navigate-on-the-app-lxge": {
       "title": "How to navigate on the app?",
       "tags": [
@@ -12,7 +19,14 @@
       "tags": [
         "Guide"
       ],
-      "lastUpdated": "2026-05-08T21:19:04.908Z"
+      "lastUpdated": "2026-05-08"
+    },
+    "so-you-guys-are-getting-placed-glj5": {
+      "title": "So you guys are getting placed?",
+      "tags": [
+        "Placement"
+      ],
+      "lastUpdated": "2026-05-08"
     },
     "the-editors-handbook-contributing-to-the-wiki": {
       "title": "The Editor's Handbook: Contributing to the Wiki",
@@ -27,7 +41,7 @@
         "Academics",
         "Academics/Aerospace"
       ],
-      "lastUpdated": "2026-05-08T21:25:54.783Z"
+      "lastUpdated": "2026-05-08"
     },
     "welcome-to-campus": {
       "title": "Welcome to Campus",
@@ -35,13 +49,6 @@
         "Campus Life"
       ],
       "lastUpdated": "2026-05-08"
-    },
-    "so-you-guys-are-getting-placed-glj5": {
-      "title": "So you guys are getting placed?",
-      "tags": [
-        "Placement"
-      ],
-      "lastUpdated": "2026-05-08T21:10:54.602Z"
     }
   }
 }
