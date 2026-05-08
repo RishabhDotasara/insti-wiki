@@ -6,26 +6,26 @@ tags:
   - Guide
 ---
 
-
-
-# Contributing to InstiWiki
-Welcome to the team! InstiWiki is a collaborative platform where every student can contribute. To ensure accuracy and maintain quality, we use a **Moderation Workflow**.
+#Contributing to InstiWiki
+Welcome to the team! InstiWiki is a collaborative platform powered by the community. To ensure all information remains accurate and high-quality, we use a simple **Review & Approval** process.
 ## 1. How to Propose an Edit
-1.  Navigate to any article you want to improve.
-2.  Click the **Edit Article** (Pencil) icon.
-3.  Make your changes in the Markdown editor.
-4.  Add relevant **Tags** (use slashes `/` for subcategories).
-5.  Click **Save Article**.
-## 2. What happens next? (The Queue)
-Because you are an Editor (not an Admin), your changes aren't published immediately.
-- A **Pull Request** is automatically created on GitHub.
-- Admins are notified that there is a "Pending Request" in their **Moderation Queue**.
+1.  **Find the Article**: Navigate to any page you want to improve or update.
+2.  **Enter Edit Mode**: Click the **Pencil icon** (Edit Article) at the top of the page.
+3.  **Make Changes**: Draft your updates in the editor. You can use the toolbar for bold text, lists, and headers.
+4.  **Tag Your Work**: Add relevant tags to help others find your article. Use a slash `/` for sub-categories (e.g., `Academics/Physics`).
+5.  **Submit**: Click **Save Changes**.
+## 2. The Review Queue
+Because you are an Editor, your changes aren't published to the live site immediately. 
+- Your edit is sent to the **Moderation Queue**.
+- An Admin will receive a notification to review your proposed changes.
+- While it's in the queue, the "Main" version of the article remains visible to other students until your new version is approved.
 ## 3. Getting Feedback
-Once an Admin reviews your work:
-- You will receive a notification in your **Moderation Inbox** (found in the user menu).
-- **Approved**: Your changes are merged into the live site instantly!
-- **Rejected**: The Admin will leave a message explaining what needs to be fixed.
-## 4. Best Practices
-- **Images**: Use the image icon to upload diagrams. Keep them under 5MB.
-- **Hierarchy**: Before creating a new top-level tag, check if a sub-tag makes more sense (e.g., use `Academics/Physics` instead of just `Physics`).
-
+Once an Admin reviews your contribution, you will be notified:
+- **Approved**: High-five! Your changes are merged into the live site instantly for everyone to see.
+- **Needs Revision**: If an Admin has questions or needs a change, they will leave a message for you. You can find these in your **Notifications** inbox.
+## 4. Pro-Tips for Great Articles
+- **Visuals**: Use the **Upload Image** button in the sidebar to add diagrams or photos. Keep images clear and relevant.
+- **Organization**: Use headers (`#`, `##`, `###`) to create a clear Table of Contents automatically.
+- **Tone**: Keep it helpful, professional, and student-focused!
+> [!NOTE]
+> You can track all your active proposals and their status in your personal **Moderation Dashboard**.
