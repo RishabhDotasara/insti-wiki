@@ -1,11 +1,14 @@
 ---
 title: 'The Editor''s Handbook: Contributing to the Wiki'
-author: Rishabh Dotasara
-authorEmail: rishabhdotasara@gmail.com
+contributors:
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09'
 date: '2026-05-09'
 tags:
   - Campuslores/Guide
 ---
+
 
 
 
@@ -36,4 +39,4 @@ Once an Admin reviews your contribution, you will be notified:
 - **Organization**: Use headers (`#`, `##`) to create a clear Table of Contents automatically.
 - **Tone**: Keep it helpful, professional, and student-focused!
 > [!NOTE]
-> You can track all your active proposals and their status in your personal **Moderation Dashboard**.
+> You can track all your active proposals and their status in your personal **My Request** page.
