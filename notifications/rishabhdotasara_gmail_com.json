@@ -8,14 +8,5 @@
     "branchName": "edit-test-article-bn5w-1778305936432",
     "slug": "test-article-bn5w",
     "proposedContent": "---\ntitle: test article bn5wsdfgsdfg\nauthor: Rishabh Dotasara\ndate: '2026-05-09'\ntags: []\n---\n\nsdfgsdfgdfg\n"
-  },
-  {
-    "id": "notif-1778305609061",
-    "status": "rejected",
-    "articleTitle": "Test Article",
-    "comment": "ad tags nigga, it wont show up anywhere else ",
-    "timestamp": "2026-05-09T05:46:49.061Z",
-    "branchName": "edit-test-article-bn5w-1778305560693",
-    "slug": "test-article-bn5w"
   }
 ]
