@@ -10,7 +10,8 @@ tags:
 
 
 
-## What was the club about?
+
+# What was the club about?
 
 The club focused on exploring modern web technologies and blockchain systems, with a strong emphasis on understanding how these technologies could be applied to solve real-world problems.
 
