@@ -13,10 +13,15 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T11:57:23.913Z'
     message: Changed Campuslores to FlightDeck
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:32:58.596Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
-  - Campuslores/Guide
+  - FlightDeck/Guide
 ---
+
 
 
 # Contributing to FlightDeck
