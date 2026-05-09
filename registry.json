@@ -47,8 +47,15 @@
       ],
       "lastUpdated": "2026-05-08"
     },
-    "new-article-zy2i": {
+    "new-article-oub6": {
       "title": "new article",
+      "tags": [
+        "Test"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "new-articlesdfgsd-poyj": {
+      "title": "new articlesdfgsd",
       "tags": [],
       "lastUpdated": "2026-05-09"
     },
@@ -107,18 +114,6 @@
         "Academics/Workflow"
       ],
       "lastUpdated": "2026-05-08"
-    },
-    "new-article-oub6": {
-      "title": "new article",
-      "tags": [
-        "Test"
-      ],
-      "lastUpdated": "2026-05-09T06:06:19.564Z"
-    },
-    "new-articlesdfgsd-poyj": {
-      "title": "new articlesdfgsd",
-      "tags": [],
-      "lastUpdated": "2026-05-09T06:06:46.776Z"
     }
   }
 }
