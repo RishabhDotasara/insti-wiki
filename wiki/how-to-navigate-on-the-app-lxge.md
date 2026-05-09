@@ -12,6 +12,10 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T12:31:16.792Z'
     message: Updated article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:31:46.787Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - FlightDeck/Guide
@@ -24,8 +28,9 @@ tags:
 
 
 
+
 # Finding What You Need
-Welcome to InstiWiki! To keep our institutional knowledge organized and searchable without the clutter of traditional folders, we use a **Hierarchical Tagging System**.
+Welcome to FlightDeck! To keep our institutional knowledge organized and searchable without the clutter of traditional folders, we use a **Hierarchical Tagging System**.
 ## 1. Using the Tag Explorer
 The most powerful way to find information is via the **Tag Explorer**. You can access it by clicking the **"Explore Tags"** button in the navigation bar.
 - **Root View**: You will see all major top-level categories (e.g. `Academics`, `Campus Life`, `Administration`).
