@@ -1,5 +1,14 @@
 [
   {
+    "id": "notif-1778303011350",
+    "status": "rejected",
+    "articleTitle": "Abhyuday : Introduction",
+    "comment": "No reason provided.",
+    "timestamp": "2026-05-09T05:03:31.350Z",
+    "branchName": "edit-abhyuday-introduction-1778302984636",
+    "slug": "abhyuday-introduction"
+  },
+  {
     "id": "notif-1778302881601",
     "status": "approved",
     "articleTitle": "abhyuday introduction",
