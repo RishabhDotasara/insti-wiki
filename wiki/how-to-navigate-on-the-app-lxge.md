@@ -1,10 +1,22 @@
 ---
 title: How to navigate on the app?
-author: Rishabh Dotasara
-date: '2026-05-08'
+contributors:
+  - name: Rishabh Dotasara
+    email: ''
+    date: '2026-05-08'
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09'
+updates:
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:31:16.792Z'
+    message: Updated article
+date: '2026-05-09'
 tags:
-  - Campuslores/Guide
+  - FlightDeck/Guide
 ---
+
 
 
 
