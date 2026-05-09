@@ -1,14 +1,16 @@
 ---
 title: 'Webops&Blockchain : The Start to End '
 author: Rishabh Dotasara
-date: '2026-05-08'
+authorEmail: rishabhdotasara@gmail.com
+date: '2026-05-09'
 tags:
   - CFI/W&B
 ---
 
 
 
-# What was the club about?
+
+## What was the club about?
 
 The club focused on exploring modern web technologies and blockchain systems, with a strong emphasis on understanding how these technologies could be applied to solve real-world problems.
 
