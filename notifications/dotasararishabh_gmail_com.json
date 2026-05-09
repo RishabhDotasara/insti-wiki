@@ -1,0 +1,12 @@
+[
+  {
+    "id": "notif-1778306623820",
+    "status": "rejected",
+    "articleTitle": "How to navigate the app?",
+    "comment": "No reason provided.",
+    "timestamp": "2026-05-09T06:03:43.820Z",
+    "branchName": "edit-how-to-navigate-on-the-app-lxge-1778280046267",
+    "slug": "how-to-navigate-on-the-app-lxge",
+    "proposedContent": "---\ntitle: How to navigate the app?\nauthor: Rishabh-Dotasara\ndate: '2026-05-08'\ntags:\n  - Campuslores/Guide\n---\n\n\n\n\n\n\n\n\n# Finding What You Need\nWelcome to InstiWiki! To keep our institutional knowledge organized and searchable without the clutter of traditional folders, we use a **Hierarchical Tagging System**.\n## 1. Using the Tag Explorer\nThe most powerful way to find information is via the **Tag Explorer**. You can access it by clicking the **\"Explore Tags\"** button in the navigation bar.\n- **Root View**: You will see all major top-level categories (e.g. `Academics`, `Campus Life`, `Administration`).\n- **Drill Down**: Click any category to see a filtered list of articles. If a category has sub-topics, they will appear in the **Subcategories** sidebar.\n- **Breadcrumbs**: Use the navigation trail at the top (e.g. `Root > Academics > Department`) to quickly jump back to a previous level.\n## 2. Understanding the Hierarchy\nWe use a simple \"Slash\" system to create organized documentation tunnels. This allows us to keep high-level topics separate from specific details.\n- **Academics**: A high-level tag for general academic info.\n- **Academics/Computer Science**: A sub-tag for department-specific guides.\n- **Academics/Computer Science/Labs**: A precise tag for lab-specific technical documentation.\n## 3. How to Categorize Your Articles\nWhen you are creating or editing an article, you can contribute to this organization.\n1.  **Add a Tag**: In the editor, type your tag name and press **Enter**.\n2.  **Use Slashes**: If your article belongs in a specific sub-topic, use the `Category/Subcategory` format.\n3.  **Removal**: To remove a tag, simply click the small **X** on the tag badge.\n---\n> [!TIP]\n> Always check the Tag Explorer before creating a new top-level category. Re-using existing categories keeps the Wiki clean and easy for everyone to navigate!\n"
+  }
+]
