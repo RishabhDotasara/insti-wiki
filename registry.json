@@ -19,17 +19,17 @@
       ],
       "lastUpdated": "2026-05-09"
     },
-    "academics-subtag-mi5n": {
-      "title": "Academics: SubTag",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-08"
-    },
     "aerospace-content-drive-97ej": {
       "title": "Aerospace Content Drive ",
       "tags": [
         "Academics/Aerospace"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "btp-and-ddp-guidelines-9oty": {
+      "title": "BTP and DDP Guidelines",
+      "tags": [
+        "Academics"
       ],
       "lastUpdated": "2026-05-09"
     },
@@ -38,7 +38,7 @@
       "tags": [
         "FlightDeck"
       ],
-      "lastUpdated": "2026-05-09T12:33:16.914Z"
+      "lastUpdated": "2026-05-09"
     },
     "cfi-an-introduction-16mt": {
       "title": "CFI: An Introduction",
@@ -47,19 +47,103 @@
       ],
       "lastUpdated": "2026-05-08"
     },
+    "credit-system-9bnr": {
+      "title": "Credit System",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "curriculum-core-and-elective-courses-xcsa": {
+      "title": "Curriculum: Core and Elective Courses",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "early-exit-urfy": {
+      "title": "Early Exit",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "examination-and-grading-m96i": {
+      "title": "Examination and Grading",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "honors-degree-pb69": {
+      "title": "Honors Degree",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
     "how-to-navigate-on-the-app-lxge": {
       "title": "How to navigate on the app?",
       "tags": [
         "FlightDeck/Guide"
       ],
-      "lastUpdated": "2026-05-09T12:31:48.432Z"
+      "lastUpdated": "2026-05-09"
+    },
+    "id-card-processes-633u": {
+      "title": "ID Card Processes",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "iddd-and-dd-rules-j2g4": {
+      "title": "IDDD and DD Rules",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "licensed-software-access-yfkq": {
+      "title": "Licensed Software Access",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "minors-and-double-counting-wt8p": {
+      "title": "Minors and Double Counting",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "miscellaneous-academic-guidelines-ws1e": {
+      "title": "Miscellaneous Academic Guidelines",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "new-article-i1m6": {
+      "title": "Course Registration Process",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "nptel-and-ob-credits-transfer-1t1c": {
+      "title": "NPTEL and OB Credits Transfer",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
     },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
       "tags": [
         "FlightDeck/Guide"
       ],
-      "lastUpdated": "2026-05-09T12:32:31.634Z"
+      "lastUpdated": "2026-05-09"
     },
     "so-you-guys-are-getting-placed-glj5": {
       "title": "So you guys are getting placed?",
@@ -80,7 +164,28 @@
       "tags": [
         "FlightDeck/Guide"
       ],
-      "lastUpdated": "2026-05-09T12:33:00.105Z"
+      "lastUpdated": "2026-05-09"
+    },
+    "timetable-and-slot-system-ikko": {
+      "title": "Timetable and Slot System",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "undergraduate-research-projects-ugrp-ega0": {
+      "title": "Undergraduate Research Projects (UGRP)",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
+    "understanding-uip-grades-8w7m": {
+      "title": "Understanding U/I/P Grades",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
     },
     "webopsblockchain-the-start-to-end-6bso": {
       "title": "Webops&Blockchain : The Start to End ",
@@ -109,118 +214,6 @@
         "Academics/Workflow"
       ],
       "lastUpdated": "2026-05-08"
-    },
-    "timetable-and-slot-system-ikko": {
-      "title": "Timetable and Slot System",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T12:50:04.194Z"
-    },
-    "credit-system-9bnr": {
-      "title": "Credit System",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T12:59:15.121Z"
-    },
-    "curriculum-core-and-elective-courses-xcsa": {
-      "title": "Curriculum: Core and Elective Courses",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:05:18.672Z"
-    },
-    "honors-degree-pb69": {
-      "title": "Honors Degree",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:07:18.324Z"
-    },
-    "undergraduate-research-projects-ugrp-ega0": {
-      "title": "Undergraduate Research Projects (UGRP)",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:09:23.693Z"
-    },
-    "btp-and-ddp-guidelines-9oty": {
-      "title": "BTP and DDP Guidelines",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:13:56.785Z"
-    },
-    "nptel-and-ob-credits-transfer-1t1c": {
-      "title": "NPTEL and OB Credits Transfer",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:16:29.461Z"
-    },
-    "new-article-i1m6": {
-      "title": "Course Registration Process",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:21:10.851Z"
-    },
-    "early-exit-urfy": {
-      "title": "Early Exit",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:22:06.085Z"
-    },
-    "examination-and-grading-m96i": {
-      "title": "Examination and Grading",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:25:42.325Z"
-    },
-    "iddd-and-dd-rules-j2g4": {
-      "title": "IDDD and DD Rules",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:28:58.056Z"
-    },
-    "minors-and-double-counting-wt8p": {
-      "title": "Minors and Double Counting",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:31:34.382Z"
-    },
-    "id-card-processes-633u": {
-      "title": "ID Card Processes",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:32:11.619Z"
-    },
-    "licensed-software-access-yfkq": {
-      "title": "Licensed Software Access",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:33:49.180Z"
-    },
-    "understanding-uip-grades-8w7m": {
-      "title": "Understanding U/I/P Grades",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:35:03.730Z"
-    },
-    "miscellaneous-academic-guidelines-ws1e": {
-      "title": "Miscellaneous Academic Guidelines",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:36:29.911Z"
     }
   }
 }
