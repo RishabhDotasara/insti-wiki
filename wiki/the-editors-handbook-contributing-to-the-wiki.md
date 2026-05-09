@@ -4,17 +4,15 @@ contributors:
   - name: Rishabh Dotasara
     email: rishabhdotasara@gmail.com
     date: '2026-05-09'
+updates:
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T08:23:59.180Z'
+    message: Added a Info point about tracking proposal requests
 date: '2026-05-09'
 tags:
   - Campuslores/Guide
 ---
-
-
-
-
-
-
-
 
 # Contributing to Campuslores
 
@@ -39,4 +37,4 @@ Once an Admin reviews your contribution, you will be notified:
 - **Organization**: Use headers (`#`, `##`) to create a clear Table of Contents automatically.
 - **Tone**: Keep it helpful, professional, and student-focused!
 > [!NOTE]
-> You can track all your active proposals and their status in your personal **My Request** page.
+> You can track all your proposals in the My Requests Section in the Top Right Dropdown.
