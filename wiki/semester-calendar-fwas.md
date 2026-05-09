@@ -9,10 +9,15 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T13:41:33.394Z'
     message: Created article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T13:42:07.069Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
-  - Academics/Aerospace
+  - Academics
 ---
+
 
 ## 2026
 
