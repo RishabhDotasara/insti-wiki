@@ -16,10 +16,16 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T12:29:19.694Z'
     message: Updated article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:30:04.732Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - FlightDeck
+  - Campuslores
 ---
+
 
 
 
