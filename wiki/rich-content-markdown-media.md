@@ -1,11 +1,19 @@
 ---
 title: 'Rich Content: Markdown & Media'
-author: Rishabh Dotasara
-authorEmail: rishabhdotasara@gmail.com
+contributors:
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09'
+updates:
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:32:29.169Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
-  - Campuslores/Guide
+  - FlightDeck/Guide
 ---
+
 
 
 
@@ -17,7 +25,7 @@ tags:
 
 # Crafting Beautiful Articles
 
-InstiWiki supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
+FlightDeck supports standard Markdown, but we've added premium GitHub-style features to help your documentation stand out.
 
 ---
 
