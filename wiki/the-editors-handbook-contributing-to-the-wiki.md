@@ -9,14 +9,19 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T08:23:59.180Z'
     message: Added a Info point about tracking proposal requests
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T11:57:23.913Z'
+    message: Changed Campuslores to FlightDeck
 date: '2026-05-09'
 tags:
   - Campuslores/Guide
 ---
 
-# Contributing to Campuslores
 
-Welcome to the team! Campuslores is a collaborative platform powered by the community. To ensure all information remains accurate and high-quality, we use a simple **Review & Approval** process.
+# Contributing to FlightDeck
+
+Welcome to the team! FlightDeck is a collaborative platform powered by the community. To ensure all information remains accurate and high-quality, we use a simple **Review & Approval** process.
 ## 1. How to Propose an Edit
 1.  **Find the Article**: Navigate to any page you want to improve or update.
 2.  **Enter Edit Mode**: Click the **Pencil icon** (Edit Article) at the top of the page.
