@@ -9,10 +9,15 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T12:49:12.728Z'
     message: First Draft
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:50:03.506Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
 ---
+
 
 # Timetable and Slot System
 
@@ -24,7 +29,7 @@ Official timetable reference:
 [Time Table IITM](https://www.iitm.ac.in/academics/academic-services/timetable)
 
 Useful timetable generator:  
-(Time Table Generator)[https://tt.mathiitm.com/]
+[Time Table Generator](https://tt.mathiitm.com/)
 
 ---
 
