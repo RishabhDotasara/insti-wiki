@@ -9,6 +9,10 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T12:57:35.244Z'
     message: Created article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T12:59:14.448Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
@@ -22,8 +26,6 @@ Understanding credits properly is important because:
 - Graduation depends on category-wise credit completion
 - Honours and minors require additional credits
 - Wrong category tracking can create problems during graduation processing
-
----
 
 ## How Credits Are Calculated
 
@@ -47,8 +49,6 @@ Total Credits = 10
 ```
 
 This means the course contributes 10 credits toward your degree.
-
----
 
 ## Graduation Credit Requirements
 
@@ -76,8 +76,6 @@ Always verify your exact curriculum requirements from:
 > For 2024 and newer batches, several departments have revised their curriculum structures and total credit requirements.  
 > The required graduation credits may therefore differ from older batches.
 
----
-
 ## Course Categories
 
 Courses are divided into different buckets/categories.
@@ -93,8 +91,6 @@ These generally include:
 - Unallotted
 
 Each category has minimum required credits that must be satisfied before graduation.
-
----
 
 ## Important Workflow Warning
 
@@ -116,8 +112,6 @@ It did not.
 
 Always track your category credits independently.
 
----
-
 ## Semester Credit Limits
 
 There is a maximum limit on how many credits you can register each semester.
@@ -131,8 +125,6 @@ There is a maximum limit on how many credits you can register each semester.
 | Later Semesters | CGPA-based |
 
 Higher semester limits depend on your CGPA and Faculty Advisor approval.
-
----
 
 ## Why Credits Matter
 
@@ -148,19 +140,3 @@ Overloading credits sounds productive until:
 - Quiz week arrives
 - Three lab reports spawn simultaneously
 - Sleep becomes theoretical
-
----
-
-## Tips for Students
-
-### Plan Electives Early
-
-Minor and honours planning becomes easier if electives are planned from second year itself.
-
-### Leave Buffer Credits
-
-Do not optimize your degree path with zero margin for mistakes.
-
-Future-you will appreciate present-you.
-
----
