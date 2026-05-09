@@ -1,12 +1,1 @@
-[
-  {
-    "id": "notif-1778306259170",
-    "status": "rejected",
-    "articleTitle": "new article",
-    "comment": "Add Tag nigga",
-    "timestamp": "2026-05-09T05:57:39.170Z",
-    "branchName": "edit-new-article-b1vy-1778306218483",
-    "slug": "new-article-b1vy",
-    "proposedContent": "---\ntitle: new article\nauthor: Rishabh Dotasara\ndate: '2026-05-09'\ntags: []\n---\n\nNew article for test \n\n![1778306211510-Screenshot_from_2026-05-09_01-31-44.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/new-article/1778306211510-Screenshot_from_2026-05-09_01-31-44.png)\n"
-  }
-]
+[]
