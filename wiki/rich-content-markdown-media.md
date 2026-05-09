@@ -1,10 +1,12 @@
 ---
 title: 'Rich Content: Markdown & Media'
 author: Rishabh Dotasara
-date: '2026-05-08'
+authorEmail: rishabhdotasara@gmail.com
+date: '2026-05-09'
 tags:
   - Campuslores/Guide
 ---
+
 
 
 
@@ -78,6 +80,9 @@ Use these specifically colored boxes to highlight important information.
 > [!CAUTION]
 > Use this for high-risk actions that could cause data loss or system instability.
 ```
+
+> [!CAUTION]
+> Use this for high-risk actions that could cause data loss or system instability.
 
 ---
 
