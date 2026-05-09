@@ -114,6 +114,13 @@
         "Academics/Workflow"
       ],
       "lastUpdated": "2026-05-08"
+    },
+    "new-article-test-2-7nd4": {
+      "title": "new article test 2",
+      "tags": [
+        "Test2"
+      ],
+      "lastUpdated": "2026-05-09T06:09:31.805Z"
     }
   }
 }
