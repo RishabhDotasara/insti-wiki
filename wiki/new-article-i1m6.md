@@ -13,10 +13,15 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T13:19:28.284Z'
     message: Updated article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T13:21:10.183Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
 ---
+
 
 
 # Course Registration Process
@@ -158,6 +163,9 @@ Students are generally advised to contact the professor beforehand.
 | 1st & 2nd | 56 |
 | 3rd & 4th | 66 |
 | Later Semesters | CGPA-based |
+
+![1778332857673-credit_limit.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/new-article-i1m6/1778332857673-credit_limit.png)
+
 
 Faculty Advisors have significant control over approval of higher credit loads and advanced courses.
 
