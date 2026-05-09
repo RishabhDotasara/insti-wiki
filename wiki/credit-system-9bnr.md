@@ -13,10 +13,16 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T12:59:14.448Z'
     message: Updated article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T16:26:25.458Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
+mediaFolder: credit-system-9bnr
 ---
+
 
 # Credit System
 
@@ -36,8 +42,7 @@ Typical components include:
 - Tutorial hours (T)
 - Practical/Lab hours (P/O)
 
-![1778331294606-credit_calc.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/new-article/1778331294606-credit_calc.png)
-
+![1778343955968-credit_calc.png](https://raw.githubusercontent.com/RishabhDotasara/insti-wiki/main/wiki/media/credit-system-9bnr/1778343955968-credit_calc.png)
 ### Example
 
 ```text
