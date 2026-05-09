@@ -56,8 +56,10 @@
     },
     "new-article-4x98": {
       "title": "new article",
-      "tags": [],
-      "lastUpdated": "2026-05-09"
+      "tags": [
+        "Test"
+      ],
+      "lastUpdated": "2026-05-09T06:49:46.515Z"
     },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
