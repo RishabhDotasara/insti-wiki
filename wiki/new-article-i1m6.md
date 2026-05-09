@@ -1,5 +1,5 @@
 ---
-title: new article
+title: Course Registration Process
 contributors:
   - name: Rishabh Dotasara
     email: rishabhdotasara@gmail.com
@@ -9,10 +9,15 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T13:19:14.410Z'
     message: Created article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T13:19:28.284Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
 ---
+
 
 # Course Registration Process
 
