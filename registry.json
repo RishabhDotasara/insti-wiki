@@ -1,5 +1,12 @@
 {
   "articles": {
+    "abhyuday-2-8ml8": {
+      "title": "Abhyuday 2",
+      "tags": [
+        "CFI/Abhyuday"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
     "abhyuday-introduction-gqh4": {
       "title": "abhyuday introduction",
       "tags": [],
@@ -46,6 +53,11 @@
         "Campuslores/Guide"
       ],
       "lastUpdated": "2026-05-08"
+    },
+    "new-article-4x98": {
+      "title": "new article",
+      "tags": [],
+      "lastUpdated": "2026-05-09"
     },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
@@ -102,18 +114,6 @@
         "Academics/Workflow"
       ],
       "lastUpdated": "2026-05-08"
-    },
-    "abhyuday-2-8ml8": {
-      "title": "Abhyuday 2",
-      "tags": [
-        "CFI/Abhyuday"
-      ],
-      "lastUpdated": "2026-05-09T06:13:54.688Z"
-    },
-    "new-article-4x98": {
-      "title": "new article",
-      "tags": [],
-      "lastUpdated": "2026-05-09T06:48:47.400Z"
     }
   }
 }
