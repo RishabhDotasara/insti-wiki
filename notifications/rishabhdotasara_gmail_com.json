@@ -1,12 +1,1 @@
-[
-  {
-    "id": "notif-1778306074525",
-    "status": "rejected",
-    "articleTitle": "test article bn5wsdfgsdfg",
-    "comment": "Nice Tagsd, but ill still reject it",
-    "timestamp": "2026-05-09T05:54:34.525Z",
-    "branchName": "edit-test-article-bn5w-1778306047192",
-    "slug": "test-article-bn5w",
-    "proposedContent": "---\ntitle: test article bn5wsdfgsdfg\nauthor: Rishabh Dotasara\ndate: '2026-05-09'\ntags:\n  - CFI/Test\n---\n\n\nsdfgsdfgdfg\n"
-  }
-]
+[]
