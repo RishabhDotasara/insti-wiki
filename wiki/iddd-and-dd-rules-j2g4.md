@@ -9,10 +9,15 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T13:27:13.682Z'
     message: Created article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T13:28:57.362Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
 ---
+
 
 # IDDD and Dual Degree Rules
 
@@ -29,6 +34,11 @@ Students are allowed to withdraw from the program at any stage, including:
 - 10th semester
 
 subject to institute procedures.
+
+
+>[!IMPORTANT]
+> This is not possible now after the revised rules, ask your seniors to confirm.
+
 
 ## Eligibility for IDDD/DD Upgrade
 
