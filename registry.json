@@ -54,19 +54,12 @@
       ],
       "lastUpdated": "2026-05-08"
     },
-    "new-article-4x98": {
-      "title": "new article",
-      "tags": [
-        "Test"
-      ],
-      "lastUpdated": "2026-05-09T07:16:37.735Z"
-    },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
       "tags": [
         "Campuslores/Guide"
       ],
-      "lastUpdated": "2026-05-09T08:02:27.480Z"
+      "lastUpdated": "2026-05-09"
     },
     "so-you-guys-are-getting-placed-glj5": {
       "title": "So you guys are getting placed?",
@@ -87,14 +80,14 @@
       "tags": [
         "Campuslores/Guide"
       ],
-      "lastUpdated": "2026-05-09T11:57:25.493Z"
+      "lastUpdated": "2026-05-09"
     },
     "webopsblockchain-the-start-to-end-6bso": {
       "title": "Webops&Blockchain : The Start to End ",
       "tags": [
         "CFI/W&B"
       ],
-      "lastUpdated": "2026-05-09T07:57:15.720Z"
+      "lastUpdated": "2026-05-09"
     },
     "welcome-to-aerospace-engineering": {
       "title": "Welcome to Aerospace Engineering",
@@ -116,14 +109,6 @@
         "Academics/Workflow"
       ],
       "lastUpdated": "2026-05-08"
-    },
-    "new-article-rz99": {
-      "title": "New Article",
-      "tags": [
-        "Engineering",
-        "Docs"
-      ],
-      "lastUpdated": "2026-05-09T12:25:46.767Z"
     }
   }
 }
