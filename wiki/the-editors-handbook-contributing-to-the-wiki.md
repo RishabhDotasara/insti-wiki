@@ -1,10 +1,12 @@
 ---
 title: 'The Editor''s Handbook: Contributing to the Wiki'
 author: Rishabh Dotasara
-date: '2026-05-08'
+authorEmail: rishabhdotasara@gmail.com
+date: '2026-05-09'
 tags:
   - Campuslores/Guide
 ---
+
 
 
 
@@ -31,7 +33,7 @@ Once an Admin reviews your contribution, you will be notified:
 - **Needs Revision**: If an Admin has questions or needs a change, they will leave a message for you. You can find these in your **Notifications** inbox.
 ## 4. Pro-Tips for Great Articles
 - **Visuals**: Use the **Upload Image** button in the sidebar to add diagrams or photos. Keep images clear and relevant.
-- **Organization**: Use headers (`#`, `##`, `###`) to create a clear Table of Contents automatically.
+- **Organization**: Use headers (`#`, `##`) to create a clear Table of Contents automatically.
 - **Tone**: Keep it helpful, professional, and student-focused!
 > [!NOTE]
 > You can track all your active proposals and their status in your personal **Moderation Dashboard**.
