@@ -26,6 +26,13 @@
       ],
       "lastUpdated": "2026-05-09"
     },
+    "aerospace-curriculum-0g8x": {
+      "title": "Aerospace Curriculum",
+      "tags": [
+        "Academics/Aerospace"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
     "btp-and-ddp-guidelines-9oty": {
       "title": "BTP and DDP Guidelines",
       "tags": [
@@ -145,6 +152,13 @@
       ],
       "lastUpdated": "2026-05-09"
     },
+    "semester-calendar-fwas": {
+      "title": "Semester Calendar ",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-09"
+    },
     "so-you-guys-are-getting-placed-glj5": {
       "title": "So you guys are getting placed?",
       "tags": [
@@ -214,20 +228,6 @@
         "Academics/Workflow"
       ],
       "lastUpdated": "2026-05-08"
-    },
-    "aerospace-curriculum-0g8x": {
-      "title": "Aerospace Curriculum",
-      "tags": [
-        "Academics/Aerospace"
-      ],
-      "lastUpdated": "2026-05-09T13:40:39.614Z"
-    },
-    "semester-calendar-fwas": {
-      "title": "Semester Calendar ",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-09T13:42:07.773Z"
     }
   }
 }
