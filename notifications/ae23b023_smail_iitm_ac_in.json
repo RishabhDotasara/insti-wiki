@@ -1,5 +1,11 @@
 [
   {
+    "id": "notif-1778303076477",
+    "status": "approved",
+    "articleTitle": "Abhyuday : Test",
+    "timestamp": "2026-05-09T05:04:36.477Z"
+  },
+  {
     "id": "notif-1778303011350",
     "status": "rejected",
     "articleTitle": "Abhyuday : Introduction",
