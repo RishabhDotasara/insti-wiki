@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "notif-1778304928489",
+    "status": "rejected",
+    "articleTitle": "Test Article",
+    "comment": "Rejected",
+    "timestamp": "2026-05-09T05:35:28.489Z",
+    "branchName": "edit-test-article-fyu3-1778304900380",
+    "slug": "test-article-fyu3"
+  }
+]
