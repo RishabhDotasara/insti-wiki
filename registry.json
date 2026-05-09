@@ -1,25 +1,44 @@
 {
   "articles": {
+    "abhyuday-introduction-gqh4": {
+      "title": "abhyuday introduction",
+      "tags": [],
+      "lastUpdated": "2026-05-09"
+    },
+    "academics-subtag-mi5n": {
+      "title": "Academics: SubTag",
+      "tags": [
+        "Academics"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
+    "campuslores-an-introduction-ighw": {
+      "title": "Campuslores: An Introduction",
+      "tags": [
+        "Campuslores"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
     "cfi-an-introduction-16mt": {
       "title": "CFI: An Introduction",
       "tags": [
         "CFI"
       ],
-      "lastUpdated": "2026-05-08T22:12:18.401Z"
+      "lastUpdated": "2026-05-08"
     },
     "how-to-navigate-on-the-app-lxge": {
       "title": "How to navigate on the app?",
       "tags": [
         "Campuslores/Guide"
       ],
-      "lastUpdated": "2026-05-08T22:31:55.932Z"
+      "lastUpdated": "2026-05-08"
     },
     "rich-content-markdown-media": {
       "title": "Rich Content: Markdown & Media",
       "tags": [
         "Campuslores/Guide"
       ],
-      "lastUpdated": "2026-05-08T21:52:54.198Z"
+      "lastUpdated": "2026-05-08"
     },
     "so-you-guys-are-getting-placed-glj5": {
       "title": "So you guys are getting placed?",
@@ -28,19 +47,33 @@
       ],
       "lastUpdated": "2026-05-08"
     },
+    "system-internals-6bpa": {
+      "title": "System Internals ",
+      "tags": [
+        "Campuslores/Internals"
+      ],
+      "lastUpdated": "2026-05-08"
+    },
     "the-editors-handbook-contributing-to-the-wiki": {
       "title": "The Editor's Handbook: Contributing to the Wiki",
       "tags": [
         "Campuslores/Guide"
       ],
-      "lastUpdated": "2026-05-08T22:11:23.714Z"
+      "lastUpdated": "2026-05-08"
+    },
+    "webopsblockchain-the-start-to-end-6bso": {
+      "title": "Webops&Blockchain : The Start to End ",
+      "tags": [
+        "CFI/W&B"
+      ],
+      "lastUpdated": "2026-05-08"
     },
     "welcome-to-aerospace-engineering": {
       "title": "Welcome to Aerospace Engineering",
       "tags": [
         "Academics/Aerospace"
       ],
-      "lastUpdated": "2026-05-08T21:57:15.929Z"
+      "lastUpdated": "2026-05-08"
     },
     "welcome-to-campus": {
       "title": "Welcome to Campus",
@@ -49,40 +82,12 @@
       ],
       "lastUpdated": "2026-05-08"
     },
-    "system-internals-6bpa": {
-      "title": "System Internals ",
-      "tags": [
-        "Campuslores/Internals"
-      ],
-      "lastUpdated": "2026-05-08T21:52:05.457Z"
-    },
     "workflow-an-introduction-47bh": {
       "title": "Workflow: An Introduction",
       "tags": [
         "Academics/Workflow"
       ],
-      "lastUpdated": "2026-05-08T21:57:33.350Z"
-    },
-    "campuslores-an-introduction-ighw": {
-      "title": "Campuslores: An Introduction",
-      "tags": [
-        "Campuslores"
-      ],
-      "lastUpdated": "2026-05-08T21:56:23.910Z"
-    },
-    "academics-subtag-mi5n": {
-      "title": "Academics: SubTag",
-      "tags": [
-        "Academics"
-      ],
-      "lastUpdated": "2026-05-08T21:58:09.806Z"
-    },
-    "webopsblockchain-the-start-to-end-6bso": {
-      "title": "Webops&Blockchain : The Start to End ",
-      "tags": [
-        "CFI/W&B"
-      ],
-      "lastUpdated": "2026-05-08T22:09:43.044Z"
+      "lastUpdated": "2026-05-08"
     }
   }
 }
