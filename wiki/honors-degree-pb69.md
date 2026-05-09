@@ -9,6 +9,10 @@ updates:
     email: rishabhdotasara@gmail.com
     date: '2026-05-09T13:06:33.344Z'
     message: Created article
+  - name: Rishabh Dotasara
+    email: rishabhdotasara@gmail.com
+    date: '2026-05-09T13:07:17.602Z'
+    message: Updated article
 date: '2026-05-09'
 tags:
   - Academics
@@ -35,9 +39,9 @@ These additional credits are generally completed during the later semesters.
 ## Eligibility Criteria
 
 To apply for Honours, students are generally required to:
-- Maintain a high CGPA
-- Have no active backlogs or disallowed grades
-- Continue maintaining the required CGPA throughout the remaining semesters
+- Have a CGPA of 8.5 or above at the end of the 5th semester
+- Have no backlog or disallowed grades
+- Maintain a CGPA of 8.5 or above throughout Semesters 6, 7, and 8
 
 The exact eligibility requirements may vary depending on department and batch regulations.
 
